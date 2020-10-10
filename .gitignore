@@ -1,0 +1,4 @@
+gen/node_modules/*
+!gen/node_modules/.placeholder
+*.js
+gen/results.json
