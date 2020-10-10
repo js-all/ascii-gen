@@ -1,4 +1,7 @@
 gen/node_modules/*
 !gen/node_modules/.placeholder
+conversion/node_modules/*
+!conversion/node_modules/.placeholder
 *.js
 gen/results.json
+conversion/results.txt
